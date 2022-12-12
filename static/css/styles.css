@@ -1,0 +1,42 @@
+@font-face {
+    font-family: NunitoBold;
+    src: url(../fonts/Nunito-Bold.ttf);
+}
+
+body {
+    color: #1e1c3b;
+    font-family: NunitoBold
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+
+}
+
+
+.day {
+    width: 2px;
+}
+
+.leftAlign {
+    text-align: left;
+}
+
+.Gray {
+    background-color: #ebedf0;
+}
+
+.Green {
+    background-color: #02f0c6;
+}
+
+.Orange {
+    background-color: #f2790f;
+}
+
+.Red {
+    background-color: #e63946;
+}
